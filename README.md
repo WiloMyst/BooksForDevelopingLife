@@ -6,19 +6,19 @@
 
 #### 正在读：
 
-- 《Effective C++ : 改善程序与设计的55个具体做法》 [Effective C++ (豆瓣) (douban.com)](https://book.douban.com/subject/5387403/) 
--  Unreal Engine 4.27 官方文档 [虚幻引擎4.27文档 | 虚幻引擎 4.27 文档 | Epic Developer Community | Epic Developer Community (epicgames.com)](https://dev.epicgames.com/documentation/zh-cn/unreal-engine/unreal-engine-4-27-documentation?application_version=4.27)  UE4项目开发中。。
+- 《游戏引擎架构 2nd》 [游戏引擎架构（第2版） (豆瓣) (douban.com)](https://book.douban.com/subject/34864920/) 
+- Unreal Engine 4.27 官方文档 [虚幻引擎4.27文档 | 虚幻引擎 4.27 文档 | Epic Developer Community | Epic Developer Community (epicgames.com)](https://dev.epicgames.com/documentation/zh-cn/unreal-engine/unreal-engine-4-27-documentation?application_version=4.27)  UE4项目开发中。。
 
 #### 计划读：
 
 - 《More Effective C++》 [More Effective C++中文版 (豆瓣) (douban.com)](https://book.douban.com/subject/1241385/) 
 - 《STL源码剖析》 [STL源码剖析 (豆瓣) (douban.com)](https://book.douban.com/subject/1110934/) 
-- 《游戏引擎架构 2nd》 [游戏引擎架构（第2版） (豆瓣) (douban.com)](https://book.douban.com/subject/34864920/) 
 - 《Unity Shader入门精要》 [Unity Shader入门精要 (豆瓣) (douban.com)](https://book.douban.com/subject/26821639/) 
 - 《Lua程序设计 4th》 [Lua程序设计（第4版） (豆瓣) (douban.com)](https://book.douban.com/subject/30262035/) 
 
 #### 已读过：
 
+- 《Effective C++ : 改善程序与设计的55个具体做法》 [Effective C++ (豆瓣) (douban.com)](https://book.douban.com/subject/5387403/)     2024部分读，读到第6章面向对象设计
 - 《Unity 3D游戏开发》 [Unity 3D游戏开发 (豆瓣) (douban.com)](https://book.douban.com/subject/10785711/)     2024略读，主要上手项目
 - 《机器学习》 [机器学习 (豆瓣) (douban.com)](https://book.douban.com/subject/26708119/)     2024部分读
 - 《C++ Primer 中文版（第 5 版）》 [C++ Primer 中文版（第 5 版） (豆瓣) (douban.com)](https://book.douban.com/subject/25708312/)     2023-2024读完
