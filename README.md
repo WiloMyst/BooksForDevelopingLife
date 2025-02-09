@@ -37,6 +37,5 @@
 - 《Java从入门到精通》 [Java从入门到精通 (豆瓣) (douban.com)](https://book.douban.com/subject/11534743/)     2020部分读，主要看课程
 - 《数据结构（C语言版）》 [数据结构（C语言版） (豆瓣) (douban.com)](https://book.douban.com/subject/24699581/)     2020读完
 - 《C++程序设计教程》 [C++程序设计教程 (豆瓣) (douban.com)](https://book.douban.com/subject/1444656/)     2020略读
-- 《软技能  代码之外的生存指南》 [软技能 (豆瓣) (douban.com)](https://book.douban.com/subject/26835090/)     2020部分读
 - 《C语言程序设计》 [C语言程序设计 (豆瓣) (douban.com)](https://book.douban.com/subject/1208843/)     2019读完
 
