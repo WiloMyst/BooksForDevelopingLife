@@ -1,6 +1,6 @@
 # BooksForDevelopingLife
 
-记录自己的阅读之旅。
+记录自己的阅读之旅
 
 
 
